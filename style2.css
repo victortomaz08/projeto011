@@ -1,0 +1,11 @@
+#imagem-peru{
+    width: 200px;
+}
+
+.cabecalho{
+    border: 3px;
+    border-style: dashed;
+    border-color: red;
+    background-color: red;
+    color: white;
+}
