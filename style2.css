@@ -10,3 +10,13 @@
     color: white;
     margin: 50px;
 }
+#link-uruguay{
+    font-size: 20px;
+    color: pink;
+    text-decoration: none;
+}
+#link-uruguay:hover{
+    font-size: 30px;
+    color:blue;
+    text-decoration: double;
+}
